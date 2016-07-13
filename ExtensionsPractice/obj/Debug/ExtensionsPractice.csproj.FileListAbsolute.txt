@@ -1,0 +1,8 @@
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\ExtensionsPractice\bin\Debug\ExtensionsPractice.exe.config
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\ExtensionsPractice\bin\Debug\ExtensionsPractice.exe
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\ExtensionsPractice\bin\Debug\ExtensionsPractice.pdb
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\ExtensionsPractice\obj\Debug\ExtensionsPractice.csprojResolveAssemblyReference.cache
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\ExtensionsPractice\obj\Debug\ExtensionsPractice.exe
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\ExtensionsPractice\obj\Debug\ExtensionsPractice.pdb
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\ExtensionsPractice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\ExtensionsPractice\bin\Debug\Newtonsoft.Json.xml

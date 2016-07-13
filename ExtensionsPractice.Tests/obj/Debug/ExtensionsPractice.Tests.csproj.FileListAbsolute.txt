@@ -1,0 +1,9 @@
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\bin\Debug\ExtensionsPractice.exe
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\bin\Debug\ExtensionsPractice.pdb
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\obj\Debug\ExtensionsPractice.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ash\Desktop\pluralsight\Elton Stoneman\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
